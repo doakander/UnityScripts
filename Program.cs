@@ -3,5 +3,9 @@
 namespace HelloWorld
 {
     int x = 5;
-    Console.WriteLine(x);
+ 
+    string johann = "hello!";
+    Console.WriteLine(x + johann);
+
+
 }
